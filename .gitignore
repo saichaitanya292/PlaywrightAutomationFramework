@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+TestResults/
+.playwright/
+*.user
+*.suo
+*.trx
+*.log
